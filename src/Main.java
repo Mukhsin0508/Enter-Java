@@ -149,7 +149,7 @@
 //
 //        //Given String from which we would like to count a character's occurances
 //        System.out.print("Enter a string: ");
-//        String str = scanner.nextLine();//"Hello Guys I do not know what to write here, so imagine that there is something quite interesting";
+//        String str = scanner.nextLine(); //"Hello Guys I do not know what to write here, so imagine that there is something quite interesting";
 //
 //        // Prompt the user to enter a character
 //        System.out.print("Enter a character to count its' occurrences: ");
