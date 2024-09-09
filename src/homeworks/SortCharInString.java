@@ -18,6 +18,9 @@ package homeworks;//import java.util.Scanner;
 //    }
 //}
 
+// Selection sort
+// Insertion sort
+
 import java.util.Scanner;
 
 public class SortCharInString {

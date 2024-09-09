@@ -37,7 +37,7 @@
 //        byte smallestNumber;
 //        short shortNumber;
 //        int numbers;
-//        long longIntegery;
+//        long Integer;
 //        float smallerDouble;
 //        double biggestVariable;
 //
@@ -147,12 +147,12 @@
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //
-//        //Given String from which we would like to count a character's occurances
+//        //Given String from which we would like to count a character's occurrences
 //        System.out.print("Enter a string: ");
 //        String str = scanner.nextLine(); //"Hello Guys I do not know what to write here, so imagine that there is something quite interesting";
 //
 //        // Prompt the user to enter a character
-//        System.out.print("Enter a character to count its' occurrences: ");
+//        System.out.print("Enter a character to count its occurrences: ");
 //        char characterToCount = scanner.next().charAt(0);//e
 //
 //        // Count occurrences
@@ -189,5 +189,3 @@
 //
 //    }
 //}
-
-
