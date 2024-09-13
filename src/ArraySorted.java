@@ -24,3 +24,36 @@ public class ArraySorted {
 
     }
 }
+
+//
+//public class Main {
+//    public static void main(String[] args) {
+//        int[] arr = {10, 2, 89, 1, 5, 4};
+//        int[] sortedArr = selectionSort(arr);
+//        System.out.println("Sorted array: ");
+//        for (int num : sortedArr) {
+//            System.out.print(num + " ");
+//        }
+//    }
+//
+//    public static int[] selectionSort(int[] arr) {
+//
+//        for (int i = 0; i < arr.length - 1; i++) {
+//            int minIndex = getMinIdx(arr, i);
+//            // Swap the found minimum element with the first element
+//            int temp = arr[minIndex];
+//            arr[minIndex] = arr[i];
+//            arr[i] = temp;
+//        }
+//        return arr;
+//    }
+//
+//    public static int getMinIdx(int[] arr, int start){
+//        int minIdx = start;
+//
+//        for(int i = start + 1; i < arr.length; i++){
+//            if(arr[i] < arr[minIdx]){ minIdx = i;}
+//        }
+//        return minIdx;
+//    }
+//}
