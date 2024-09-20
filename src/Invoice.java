@@ -13,6 +13,7 @@ class Item {
         this.price = price;
     }
 
+
     public double getTotalPrice() {
         return quantity * price;
     }
